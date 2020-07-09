@@ -1,0 +1,48 @@
+body{
+    background-color: hsl(232, 12%, 52%);
+    text-align: center;
+}
+.maindiv{
+    margin-top: 20%;
+}
+h1{
+    color: white;
+
+    width: 10%;
+    display: inline-block;
+    font-size: 50px;
+
+    font-family: sans-serif;
+
+}
+
+.fa{
+    margin: 10px;
+    color: white;
+}
+.btn1{
+    margin: 10px;
+    background-color:  hsl(232, 12%, 52%);
+    border-radius: 50%;
+    border: 2px solid #5d6275;
+    outline: none;
+}
+.btn2{
+    margin: 10px;
+    background-color: #f26c53;
+    border-radius: 50%;
+    border: 2px solid #5d6275;
+    outline: none;
+    
+}
+.fa2{
+    margin: 25px;
+}
+
+.btn1:hover{
+    opacity: 0.3;
+}
+
+.btn2:hover{
+    opacity: 0.3;
+}
